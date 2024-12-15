@@ -4,5 +4,4 @@ let userName = 'Test';
 const object = {
 	userName: 'TestProperty',
 };
-let userName2;
-
+console.log('test');
