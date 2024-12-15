@@ -5,4 +5,3 @@ const object = {
 	userName: 'TestProperty',
 };
 let userName2;
-
